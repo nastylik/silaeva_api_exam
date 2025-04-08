@@ -1,0 +1,1 @@
+{"detail":[{"type":"enum","loc":["body","status"],"msg":"Input should be 'pending', 'in progress' or 'completed'","input":"invalid_status","ctx":{"expected":"'pending', 'in progress' or 'completed'"}}]}
